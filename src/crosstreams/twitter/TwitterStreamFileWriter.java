@@ -20,7 +20,7 @@
  * All Rights Reserved.
  *
  * Contributor(s):
- *   Richard McCreadie <richard.mccreadie@gla.ac.uk> (original author)
+ *   Richard McCreadie <richard.mccreadie@glasgow.ac.uk> (original author)
  */
 
 package crosstreams.twitter;
