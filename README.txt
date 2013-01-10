@@ -87,5 +87,5 @@ the Cross Project (EPSRC, grant number EP/J020664/1). The Original Code for the 
 2013 the University of Glasgow. All Rights Reserved. Twitter4J is copyright to Yusuke Yamamoto released under the Apache License
 Version 2.0. 
 
-Contact:  Richard McCreadie <richard.mccreadie@gla.ac.uk> (original author) 
+Contact:  Richard McCreadie <richard.mccreadie@glasgow.ac.uk> (original author) 
 
